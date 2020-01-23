@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    
+  }
+  
+  .headerleft{
+    background: rgb(255, 251, 230);
+    padding: 0;
+    margin: 0;
+    
+  }
+  
+  header h1{
+    
+    font-size: 150%;
+    padding: 10px 30px;
+    color: rgb(255, 217, 0);
+  }
+  
+  header h1 b{
+    color:#e6c300;
+    font-weight: 700; 
+  }
+  
+  header h1 small {
+    font-size: 70%;
+  }
+  aside{
+    float: right;
+    max-width:30%;
+    background: #4B0082;
+    margin: 0;
+    padding: 0;
+    min-height: 1075px;
+  }
+  
+  .split h1{
+    padding: 30px 30px 10px 30px;
+    color: white;
+    font-size: 300%;
+  }
+  
+  .split h1 b{
+    color: #e6c300;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; 
+  }
+  
+  .split p{
+    padding: 10px 30px 30px 30px;
+    color:white;
+  }
+  
+  main{
+    max-width: 70%;
+  }
+  
+  .left{
+    background: #e6c300;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .left h1 {
+    font-size: 300%;
+    padding: 30px 30px 1px 30px;
+  }
+  
+  .left h1 b{
+    color: indigo;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700; 
+  }
+  
+  .left p{
+    padding: 10px 30px 30px 30px;
+  }
+  
+  
