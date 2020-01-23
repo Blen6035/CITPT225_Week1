@@ -17,24 +17,20 @@
     
     font-size: 150%;
     padding: 10px 30px;
-    color: rgb(255, 217, 0);
+    color: indigo;
   }
   
   header h1 b{
-    color:#e6c300;
+    color:black;
     font-weight: 700; 
   }
   
-  header h1 small {
-    font-size: 70%;
-  }
   aside{
     float: right;
     max-width:30%;
     background: #4B0082;
     margin: 0;
     padding: 0;
-    min-height: 1075px;
   }
   
   .split h1{
@@ -44,7 +40,7 @@
   }
   
   .split h1 b{
-    color: #e6c300;
+    color: hsl(51, 100%, 65%);
     font-family: 'Roboto', sans-serif;
     font-weight: 700; 
   }
@@ -59,7 +55,7 @@
   }
   
   .left{
-    background: #e6c300;
+    background:hsl(51, 100%, 65%);
     padding: 0;
     margin: 0;
   }
