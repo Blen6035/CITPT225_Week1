@@ -31,6 +31,7 @@
     background: #4B0082;
     margin: 0;
     padding: 0;
+    min-height: 350px;
   }
   
   .split h1{
@@ -58,6 +59,7 @@
     background:hsl(51, 100%, 65%);
     padding: 0;
     margin: 0;
+    min-height: 350px;
   }
   
   .left h1 {
